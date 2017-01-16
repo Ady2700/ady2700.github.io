@@ -6,3 +6,7 @@ body {
     font-family: arial;
     color: purple;
 }
+div p {
+    color:black;
+    text-align: left;
+}
